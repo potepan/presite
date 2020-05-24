@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: '練習用サイト',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -25,9 +25,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Daichi Miyazaki',
+    photo: '/spaces_-LD4_rH-XWQhswWtwNyc_avatar.png',
+    bio: '練習用サイト',
     contacts: {
       email: '',
       facebook: '#',
